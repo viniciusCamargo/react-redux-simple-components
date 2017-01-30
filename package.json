@@ -1,7 +1,8 @@
 {
   "name": "reduxando",
   "devDependencies": {
-    "react-scripts": "0.7.0"
+    "react-scripts": "0.7.0",
+    "redux-logger": "^2.7.4"
   },
   "dependencies": {
     "react": "^15.3.2",
